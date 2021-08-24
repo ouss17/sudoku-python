@@ -1,0 +1,5 @@
+- Faire la grille avec les nombres
+- Générer des nombres aléatoires
+- Caché des cases aléatoires
+- Parcourir le tableau avec les cases vides
+- Vérifier les reponses pour savoir si il a gagné
